@@ -22,7 +22,8 @@ body {
 .tools {
     display: flex;
     justify-content: space-between;
-    width: 640px;
+    align-items: center;
+    width: 550px;
 }
 
 .parameters {
@@ -34,6 +35,7 @@ body {
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+    height: 640px;
     width: 100px;
 }
 
