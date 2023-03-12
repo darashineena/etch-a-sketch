@@ -93,10 +93,7 @@ function randomToBlack() {
         });
     });
  }
-function incrementN() {
-    let x = 0;
-    x = i + 1;
-}
+ 
 function getRandomNumber0to255(e){
     e = Math.floor(Math.random() * 255);
     return e;
